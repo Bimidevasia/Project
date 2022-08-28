@@ -18,6 +18,8 @@ public class PalindromeNo {
 		if(orgnum==rev)
 		{
 			System.out.println("Palindrome");
+			System.out.println("success");
+			
 		}else
 		{
 			System.out.println("Not Palindrome");
